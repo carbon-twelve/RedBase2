@@ -1,0 +1,5 @@
+# Ionide
+.ionide/
+
+# .NET Core project
+obj/
